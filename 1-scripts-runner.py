@@ -1,5 +1,3 @@
-import time
-
 script_1 = __import__("original-data-extractor")
 script_2 = __import__("elapsed-time-summary")
 script_3 = __import__("elapsed-time-average")
