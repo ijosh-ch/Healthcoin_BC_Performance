@@ -1,0 +1,5 @@
+timestamp(ms);tx-load;cpu-usage-pid(%);cpu-usage-total(%);memory-used-pid(MB);memory-usage-total(%);disk-io-total(MB/s)
+0;0;0.0;0.0;179.85;42.7;0.64
+1410;0;0.0;15.9;179.85;42.8;0.7
+2828;3;9.07;29.5;170.28;42.7;0.0
+4547;10;11.12;39.1;175.68;42.8;0.0
